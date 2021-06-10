@@ -1,0 +1,14 @@
+C:\Users\Mateus\Documents\Projetos C#\tabuada\bin\Debug\tabuada.exe.config
+C:\Users\Mateus\Documents\Projetos C#\tabuada\bin\Debug\tabuada.exe
+C:\Users\Mateus\Documents\Projetos C#\tabuada\bin\Debug\tabuada.pdb
+C:\Users\Mateus\Documents\Projetos C#\tabuada\obj\Debug\tabuada.csprojAssemblyReference.cache
+C:\Users\Mateus\Documents\Projetos C#\tabuada\obj\Debug\tabuada.Form1.resources
+C:\Users\Mateus\Documents\Projetos C#\tabuada\obj\Debug\tabuada.frmTabuada.resources
+C:\Users\Mateus\Documents\Projetos C#\tabuada\obj\Debug\tabuada.Properties.Resources.resources
+C:\Users\Mateus\Documents\Projetos C#\tabuada\obj\Debug\tabuada.csproj.GenerateResource.cache
+C:\Users\Mateus\Documents\Projetos C#\tabuada\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Documents\Projetos C#\tabuada\obj\Debug\tabuada.exe
+C:\Users\Mateus\Documents\Projetos C#\tabuada\obj\Debug\tabuada.pdb
+C:\Users\Mateus\Documents\Projetos C#\tabuada\obj\Debug\tabuada.frmAdicao.resources
+C:\Users\Mateus\Documents\Projetos C#\tabuada\obj\Debug\tabuada.frmDivisao.resources
+C:\Users\Mateus\Documents\Projetos C#\tabuada\obj\Debug\tabuada.frmSub.resources
